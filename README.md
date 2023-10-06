@@ -1,4 +1,4 @@
-# Predicting Facial Expression/Emotion from Images
+# Predicting Facial Expression
 _________
 ## Context:
 
